@@ -76,7 +76,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -913,6 +913,15 @@
                 }, 
                 {
                  "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":54,
                  "properties":[
                         {
                          "name":"collides",
