@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/senseifamily.github.io\/workadventure-sensei\/map.json#exit_to_temple"
+                 "value":"\/map.json#exit_to_temple"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -86,7 +86,12 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/senseifamily.github.io\/workadventure-sensei\/temple.json"
+                 "value":"\/temple.json"
+                }, 
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
