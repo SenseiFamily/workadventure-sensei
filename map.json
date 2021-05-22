@@ -86,7 +86,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/temple.json#entry_from_map"
+                 "value":"\/temple.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -131,7 +131,7 @@
          "name":"sea",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -143,7 +143,7 @@
          "name":"island",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -155,7 +155,7 @@
          "name":"paths",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
